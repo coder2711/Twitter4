@@ -1,0 +1,29 @@
+body{
+    background-color:greenyellow ;
+    text-align: right;
+}
+#welcome{
+    color: rgb(250, 7, 7);font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 2px;margin-bottom: 40px;
+}
+.room_name
+{
+	cursor: pointer;
+	font-size: 25px;
+    
+}
+#output
+{
+	padding: 10px; width:80%;background: rgba(124, 231, 250, 0.8);border-radius: 15px;
+}
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(197, 187, 253, 0.8);
+}
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;color:grey;
+}
